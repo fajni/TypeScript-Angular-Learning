@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # TypeScript-Angular-Learning
+
 Learning Repository
-=======
+
 <h1> TypeScript-Angular-Learning</h1>
 Learning Repository. My personal notes.
 
@@ -12,6 +12,7 @@ Learning Repository. My personal notes.
 
 <h1> Contents</h1>
 
+- [TypeScript-Angular-Learning](#typescript-angular-learning)
 - [1. TypeScript](#1-typescript)
   - [1.1. Setup TypeScript](#11-setup-typescript)
   - [1.2. Workflow \& tsconfig (lecture-6)](#12-workflow--tsconfig-lecture-6)
@@ -92,5 +93,3 @@ Build a small project for the purposes of practice TypeScript. Check README.md i
 Lecture follows Udemy course: <a href = "https://www.udemy.com/course/the-complete-guide-to-angular-2"> _Angular - The Complete Guide (2024 Edition)_ </a>
 
 ## 2.1. 
-
->>>>>>> 4ea5716 (TypeScript Lectures)
