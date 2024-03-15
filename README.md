@@ -17,7 +17,7 @@ Learning Repository. My personal notes.
   - [1.1. Setup TypeScript](#11-setup-typescript)
   - [1.2. Workflow \& tsconfig (lecture-6)](#12-workflow--tsconfig-lecture-6)
   - [1.3. Modules (lecture-13)](#13-modules-lecture-13)
-  - [1.4. Small Practice (small\_project)](#14-small-practice-small_project)
+  - [1.4. Small Practice (small\_practice)](#14-small-practice-small_practice)
 - [2. Angular](#2-angular)
   - [2.1.](#21)
 
@@ -77,13 +77,13 @@ __tsconfig.json__:
 
 _Note: When starting, it needs to be with __LIVE SERVER__! Otherwise error occurs (CORS POLICY)._
 
-## 1.4. Small Practice (small_project)
+## 1.4. Small Practice (small_practice)
 
-Build a small project for the purposes of practice TypeScript. Check README.md inside _small_project_ folder for more about this project.
+Build a small practice for the purposes of practice TypeScript. Check README.md inside _small_practice_ folder for more.
 
 <details>
 <summary>Images</summary>
-  <img src = "./typescript/small_project/images/cards.PNG">
+  <img src = "./typescript/small_practice/images/cards.PNG">
 </details>
 
 <hr/>
