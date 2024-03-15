@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Virgil;
+    src: url('./assets/fonts/Virgil.woff2');
+}
+
+div{
+    font-family: Virgil;
+}
+

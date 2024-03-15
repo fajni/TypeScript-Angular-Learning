@@ -1,0 +1,2 @@
+Insert data in some form, and generate the report. 
+(As small project to check TypeScript knowledge!)
